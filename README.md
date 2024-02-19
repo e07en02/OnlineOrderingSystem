@@ -20,7 +20,7 @@ Moreover, the system incorporates an Admin login feature, allowing admin to acce
 Password: Test123 </h3>
 
 <hr>
-<img src= "https://github.com/e07en02/OnlineOrderingSystem/tree/main/OnlineOrderingSystem/Images/Home.png"/>
+<img src= "https://github.com/e07en02/OnlineOrderingSystem/tree/main/OnlineOrderingSystem/Images/Home.jpg"/>
 
 <h1> How to Install </h1>
 <ul>
