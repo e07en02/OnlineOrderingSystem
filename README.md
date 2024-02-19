@@ -1,5 +1,5 @@
 <h1 align = "center"> Food Ordering System - Heavenly Treats </h1>
-  <p> The Heavenly Treats ordering website is developed using HTML, CSS, and PHP, offering a seamless user experience. Its core functionalities encompass presenting users with a comprehensive menu showcasing available products. This includes detailed descriptions, images, and pricing for each food item, facilitating informed browsing.
+  <p> Heavenly Treats ordering website is developed using HTML, CSS, and PHP, offering a seamless user experience. Its core functionalities encompass presenting users with a comprehensive menu showcasing available products. This includes detailed descriptions, images, and pricing for each food item, facilitating informed browsing.
 
 Moreover, the system incorporates an Admin login feature, allowing admin to access and manage the website. Admin can create multiple admin accounts, admin user profiles, and oversee orders and categories/food lists efficiently. Additionally, admin has access to an intuitive dashboard providing insights into total orders and revenue generated. </p>
 
